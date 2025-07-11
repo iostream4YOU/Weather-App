@@ -3,7 +3,7 @@
 This is a simple weather application that uses the OpenWeatherMap API to fetch and display weather data for a specific city.
 
 
-![weather](Weather App.png)
+![weather](https://github.com/iostream4YOU/Weather-App/blob/main/Weather%20App.png)
 
 ## Features
 
